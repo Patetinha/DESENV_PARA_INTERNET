@@ -1,0 +1,12 @@
+ul li a {
+    text-decoration: none;
+}
+
+.menu li ul { 
+    display: none;
+    text-decoration: none; 
+} 
+.menu li:hover ul {
+    display: block;
+}
+
