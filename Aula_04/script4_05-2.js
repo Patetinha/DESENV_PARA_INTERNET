@@ -1,0 +1,14 @@
+let i;
+i=100;
+i++;
+document.write(i +" Rodrigo <br>");
+i++;
+document.write(i + " Fulano <br>");
+i++;
+document.write(i + " Ciclano <br>");
+i++;
+document.write(i + " Robervaldo <br>");
+i++;
+document.write(i + " ET de Marte<br>");
+i++;
+document.write(i + " Clerisvaldo <br>");
